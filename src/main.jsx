@@ -4,9 +4,7 @@ import './index.css'
 import App from './App.jsx'
 import { makeServer } from './server.js'
 
-if (process.env.NODE_ENV === "development") {
-  makeServer();
-}
+makeServer({ environment: "development" })
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>

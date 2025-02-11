@@ -23,7 +23,7 @@ function Home () {
             <div className="container">
                 <section className="child">
                     <div className="img-container">
-                        <img src="src/assets/images/choc-drip.jpg"/>
+                        <img src="/images/choc-drip.jpg"/>
                     </div>
                     
                     <div className="description">
@@ -33,7 +33,7 @@ function Home () {
                 </section>
                 <section className="child">
                     <div className="img-container">
-                        <img src="src/assets/images/licorice.jpg" />
+                        <img src="/images/licorice.jpg" />
                     </div>
                     
                     <div className="description">
@@ -43,7 +43,7 @@ function Home () {
                 </section>
                 <section className="child">
                     <div className="img-container">
-                        <img src="src/assets/images/lollie.jpg" />
+                        <img src="/images/lollie.jpg" />
                     </div>
                     
                     <div className="description">
@@ -53,7 +53,7 @@ function Home () {
                 </section>
                 <section className="child">
                     <div className="img-container">
-                        <img src="src/assets/images/candy.jpg" />
+                        <img src="/images/candy.jpg" />
                     </div>
                     <div className="description">
                         <h3 className="first">For every Burst of Flavour... </h3>
